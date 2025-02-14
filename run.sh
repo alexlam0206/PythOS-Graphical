@@ -1,1 +1,1 @@
-python booloader.py
+python bootloader.py
